@@ -1,0 +1,87 @@
+
+.box{
+    color: aliceblue;
+    backdrop-filter: blur(10px);
+    background-color:#01284d80;
+    float: left;
+    text-align: center;
+    width: 380px;
+    height: 200px;
+    border: 1px solid;
+    margin-top: 20px;
+    padding-top: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.171);
+}
+.contact-form{
+    width: 100%;
+    padding: 50px;
+    margin-top: auto 30px;   
+}
+.custom-label {
+    font-size: 15px;
+  }
+input[type="text"],
+        input[type="email"],
+        textarea {
+            width: 100%;
+            padding: 10px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid;
+            box-sizing: border-box;
+            background: none;
+}
+input[type="Submit"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    background-color:#01284d80;
+    color: white;
+    border: 1px solid;
+    cursor: pointer;
+    height: 50px;
+    border-radius: 25px;
+}
+input[type="Submit"]:hover {
+    background-color: #01284dc5;
+}
+.container {
+    width: 100%;
+    margin: auto;
+}
+.contact.map{
+    margin-top: auto 30px;
+    height: 350px;
+    width: 100%;
+}
+.box > .glyphicon{
+    margin-top: 20px auto;
+    color: white;
+    font-size: 30px;
+}
+.form2{
+    width: 60%;
+    float: left;
+    margin-top: 30px;
+    letter-spacing: 1.5px;
+    word-spacing:-0.2em;
+
+}
+.form1{
+    width: 40%;
+    float: right;  
+    margin-top: 30px; 
+    padding-left: 60px; 
+}
+@media only screen and (max-width:800px)
+{
+    .contact-header{
+        padding: 0px 0px;
+    }
+    .box, .form1, .form2, .contact.map{
+        width: 100%;
+        margin: 20px;
+        padding: 20px;
+    }
+    
+}

@@ -1,0 +1,28 @@
+nav{
+       opacity: 0.8;
+       background-color: aqua;
+      }
+      
+      .navbar #para{
+       text-align:right;
+       color: black;
+       text-align: center;
+       font-size: 52px;
+       padding:0.1rem;
+       font-weight: bold;
+       font-family: 'Times New Roman', Times, serif;
+      }
+      .navbar #logo{
+       font-size: 30px;
+       color: black;
+       padding:5px;
+      }
+      .navbar a{
+       font-weight: bold;
+       color: black;
+       font-size:18px;
+      }
+      h3{
+       color: black;
+       text-align: center;
+      }
