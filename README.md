@@ -22,4 +22,4 @@ The goal of this project is to promote healthy living and make organic products 
 - **Database:** MySQL  
 - **Server:** XAMPP / Apache  
 
-<video src="OrganicMart.mp4" controls width="600"></video>
+<video src="https://github.com/pratikshaTitkare/Organic-Mart/blob/main/OrganicMart.mp4" controls width="600"></video>
