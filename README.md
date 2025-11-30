@@ -3,8 +3,6 @@
 OrganicMart is a PHP-based web application where users can browse and buy fresh organic fruits, vegetables, and dry fruits online.  
 The goal of this project is to promote healthy living and make organic products easily accessible.
 
-<video src="https://github.com/pratikshaTitkare/Organic-Mart/blob/c460e67cf78f0fd4f46bc6a081a1fed5dbcbf259/OrganicMart.mp4" controls width="600"></video>
-
 ---
 
 ## 🛒 Features
@@ -25,3 +23,4 @@ The goal of this project is to promote healthy living and make organic products 
 - **Server:** XAMPP / Apache  
 
 ---
+[🎥 Click to Watch Demo](https://drive.google.com/file/d/1H60JZGR_Ndpn4X8fbD9o0mSwnenc5MIz/view?usp=drive_link)
